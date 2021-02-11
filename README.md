@@ -5,7 +5,7 @@ This script takes as input a .csv spreadsheet with each reference on a separate 
 <br>
 <br>
 
-Expected usage is "python csv2ris.py -i <yourInputFileName>.csv". For example, "python csv2ris.py -i Example.csv". Also note csv2ris.py should be located in the same folder as your csv file.
+Expected usage is "python csv2ris.py -i yourInputFileName.csv". For example, "python csv2ris.py -i Example.csv". Also note csv2ris.py should be located in the same folder as your csv file.
 
 **Some things to keep in mind:**
 
