@@ -1,3 +1,5 @@
+#!/usr/bin/env python
+
 import csv # csv helper
 import sys, getopt # used for command line args
 
